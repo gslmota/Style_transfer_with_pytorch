@@ -36,9 +36,8 @@ pip install -r requirements.txt
 
 * Normal Images
 
-![!MNIST](https://github.com/gslmota/Style_tranfer_with_python/blob/main/imgs/img.png)
+![!imgs](https://github.com/gslmota/Style_transfer_with_pytorch/blob/main/imgs/img.png)
 
 * Transformed Images / Normal Images
 
-![!MNIST](https://github.com/gslmota/Style_tranfer_with_python/blob/main/imgs/result.png)
-
+![!imgs](https://github.com/gslmota/Style_transfer_with_pytorch/blob/main/imgs/result.png)
