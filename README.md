@@ -17,7 +17,7 @@ The **colab_notebook** folder contains the python codes used in projects.The oth
 
 # Requirements
 
- * Check the **requirements.txt** file.
+ * Check the **requirements.txt** file for libs.
 
 
 # Test
