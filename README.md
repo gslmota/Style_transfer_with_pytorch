@@ -41,3 +41,6 @@ pip install -r requirements.txt
 * Transformed Images / Normal Images
 
 ![!imgs](https://github.com/gslmota/Style_transfer_with_pytorch/blob/main/imgs/result.png)
+
+# References:
+* IA Expert Academy: [IA Expert Academy](https://iaexpert.academy/)
